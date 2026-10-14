@@ -1,0 +1,6 @@
+{
+  "name": "RupeeRewards - Secure Rewards & Wallet Platform",
+  "description": "Modern, secure rewards wallet platform featuring dual customer and admin panels, ₹50 bonus per ₹500 deposit rewards, ₹20,000 deposit limit, separate balances, KYC verification, and server-side ledger audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
